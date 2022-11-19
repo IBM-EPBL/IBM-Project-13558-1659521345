@@ -7,7 +7,7 @@
 
 | Team Member   | Name                       | Register number |
 |---------------|----------------------------| --------------- |
-| Team Lead     | Yaswanth kumar yelundiri   | 412419106096    |
+| Team Lead     | Yaswanth kumar yenduluri   | 412419106096    |
 | Team Member 1 | Saran. R                   | 412419106072    |
 | Team Member 2 | Jeremin. S H               | 412419106035    |
 | Team Member 3 | Suresh kumar. S            | 412419106087    |
@@ -23,7 +23,7 @@ Forest fires are a major environmental issue, creating economic and ecological d
 
 **Assignments**
 
-1. [Yaswanth kumar yelundiri](https://github.com/IBM-EPBL/IBM-Project-13558-1659521345/tree/main/Assesments/Team%20lead%20-%20Yaswanth%20Kumar%20Yendluri)
+1. [Yaswanth kumar yenduluri](https://github.com/IBM-EPBL/IBM-Project-13558-1659521345/tree/main/Assesments/Team%20lead%20-%20Yaswanth%20Kumar%20Yendluri)
 2. [Saran. R](https://github.com/IBM-EPBL/IBM-Project-13558-1659521345/tree/main/Assesments/M1-%20Saran%20R)
 3. [Jeremin. S H](https://github.com/IBM-EPBL/IBM-Project-13558-1659521345/tree/main/Assesments/M4%20-%20Jeremin%20SH)
 4. [Suresh kumar. S](https://github.com/IBM-EPBL/IBM-Project-13558-1659521345/tree/main/Assesments/M2%20-%20Sureshkumar%20S)
