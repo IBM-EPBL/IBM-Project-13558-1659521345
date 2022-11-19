@@ -23,8 +23,8 @@ Forest fires are a major environmental issue, creating economic and ecological d
 
 <img src="![image](https://user-images.githubusercontent.com/97231113/202858512-0e16402c-a77c-4c36-84d5-01e97687d5d3.png)" width="50" height="50">
 
- <img src="![image](https://user-images.githubusercontent.com/97231113/202859687-dd49db30-f4d4-42ca-8a5f-d07fd8884371.png)" width="100" height="100">
-
+<img src="![image](https://user-images.githubusercontent.com/97231113/202859687-dd49db30-f4d4-42ca-8a5f-d07fd8884371.png)" width="100" height="100">
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="![image](https://user-images.githubusercontent.com/97231113/202859687-dd49db30-f4d4-42ca-8a5f-d07fd8884371.png)" width="200" height="400" />
 
 **Assignments**
 
