@@ -7,7 +7,7 @@
 
 | Team Member   | Name                       | Register number |
 |---------------|----------------------------| --------------- |
-| Team Lead     | Yaswanth kumar yendluri   | 412419106096    |
+| Team Lead     | Yaswanth kumar yendluri    | 412419106096     |
 | Team Member 1 | Saran. R                   | 412419106072    |
 | Team Member 2 | Jeremin. S H               | 412419106035    |
 | Team Member 3 | Suresh kumar. S            | 412419106087    |
@@ -15,7 +15,9 @@
 
 **Project Description :**
 
+<div style="text-align: justify">
 Forest fires are a major environmental issue, creating economic and ecological damage while endangering human lives. There are typically about 100,000 wildfires in the United States every year. Over 9 million acres of land have been destroyed due to treacherous wildfires. It is difficult to predict and detect Forest Fire in a sparsely populated forest area and it is more difficult if the prediction is done using ground-based methods like Camera or Video-Based approach. Satellites can be an important source of data prior to and also during the Fire due to its reliability and efficiency. The various real-time forest fire detection and prediction approaches, with the goal of informing the local fire authorities.
+</div>
 
 
 ![image](https://user-images.githubusercontent.com/97231113/202858512-0e16402c-a77c-4c36-84d5-01e97687d5d3.png)
