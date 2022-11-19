@@ -20,6 +20,12 @@ Forest fires are a major environmental issue, creating economic and ecological d
 
 ![image](https://user-images.githubusercontent.com/97231113/202858512-0e16402c-a77c-4c36-84d5-01e97687d5d3.png)
 
+**Languages Used**
+
+
+![image](https://user-images.githubusercontent.com/97231113/202859373-e12dd883-7b01-424f-98ad-36ae4773ed3c.png)
+
+
 
 **Assignments**
 
